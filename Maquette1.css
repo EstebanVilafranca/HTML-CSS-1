@@ -1,0 +1,39 @@
+body {
+    display: flex;;
+}
+
+.englobe {
+    display: flex;
+
+}
+
+.menu {
+    display: flex;
+    flex-direction: column ;
+    flex: 1;
+
+    height: 500px;
+
+    background-color: red;
+}
+
+.P2 {
+    flex: 4;
+}
+
+
+article {
+    height: 60vh;
+}
+
+header, footer {
+    padding-right: 500px;
+    height: 20vh;
+
+
+    background-color: greenyellow;
+}
+
+aside {
+    background-color: aliceblue;
+}
